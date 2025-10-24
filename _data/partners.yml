@@ -1,0 +1,10 @@
+-
+  group: "Senior"
+  elements:
+    - {name: "Movile", description: "Movile", link: "https://movile.com/", imageUrl: "movile.png", width: "115%"}
+-
+  group: Apoio
+  elements:
+    - { name: "AI Brasil", description: "AI Brasil", link: "https://www.facebook.com/BrasilAI/", imageUrl: "aibrasil.png", width: "120%" }
+    - { name: "SouJava Campinas JUG", description: "SouJava Campinas JUG", link: "https://soujava.org.br/regionais/campinas/", imageUrl: "soujavacampinas.jpg", width: "80%" }
+    

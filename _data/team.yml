@@ -1,0 +1,80 @@
+main:
+  - 
+    id: 0
+    name: "Thaissa"
+    surname: "Candella"
+    title: "Direção Geral (Wonder Woman)"
+    thumbnailUrl: ThaissaCandella.jpeg
+    team: true
+    ribbon: 
+      - {abbr: "GDG", title: "Google Developer Group"}
+    social: 
+      - {name: "linkedin", link: "https://www.linkedin.com/in/thaissacandella/"}
+      - {name: "facebook", link: "https://www.facebook.com/thaissa.candella"}
+  - 
+    id: 1
+    name: "Henrique"
+    surname: "Candella"
+    title: "Operacional/Design (LeBron James)"
+    thumbnailUrl: HenriqueCandella.jpg
+    team: true
+    ribbon: 
+      - {abbr: "GDG", title: "Google Developer Group"}
+    social: 
+      - {name: "linkedin", link: "https://www.linkedin.com/in/henrique-candella-565a93133/"}
+      - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100014317275586"}
+  - 
+    id: 3
+    name: "Rodrigo"
+    surname: "Botti"
+    title: "Website (Tony Stark)"
+    thumbnailUrl: RodrigoBotti.jpeg
+    team: true
+    social:
+      - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigo-botti/"}
+      - {name: "facebook", link: "https://www.facebook.com/rodrigo.botti.9"}
+  - 
+    id: 8
+    name: "Lucas"
+    surname: "Camarotto"
+    title: "Junior"
+    thumbnailUrl: Camarotto.jpg
+    team: true
+    social: []
+
+support:
+  - 
+    id: 4
+    name: "Felipe"
+    surname: "Pereira"
+    title: "Coordenador de Conteúdo"
+    thumbnailUrl: FelipePereira.jpg
+    support: true
+    social: 
+      - {name: "linkedin", link: "https://www.linkedin.com/in/felipe-pereira-dba/"}
+  -
+    id: 5
+    name: "Ahirton"
+    surname: "Lopes"
+    title: "Curadoria"
+    thumbnailUrl: AhirtonLopes.jpg
+    support: true
+    social:
+      - { name: "linkedin", link: "https://www.linkedin.com/in/ahirton/" }
+  -
+    id: 6
+    name: "Italo"
+    surname: "José"
+    title: "Curadoria"
+    thumbnailUrl: ItaloJose.jpg
+    support: true
+    social: []
+  -
+    id: 7
+    name: "Thaissa"
+    surname: "Sanches"
+    title: "Curadoria"
+    thumbnailUrl: ThaissaSanches.jpg
+    support: true
+    social: []
+  

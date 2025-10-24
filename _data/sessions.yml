@@ -1,0 +1,197 @@
+-
+  id: 0
+  title: "A definir"
+  place: ""
+  subtype: presentation
+  description: ""
+
+-
+  id: 100
+  title: "Credenciamento"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 200
+  title: "Apresentação GDG Campinas + Informações"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 600
+  title: "Almoço"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 1000
+  title: "Coffee"
+  place: ""
+  service: true
+  description: "Momento para networking"
+
+-
+  id: 1400
+  title: "Encerramento"
+  place: ""
+  service: true
+  description: ""
+
+# Keynote: Davi Silva
+-
+  id: 301
+  title: "Keynote: Machine-Learning Bias"
+  place: ""
+  subtype: keynote
+  description: "Erros de algoritmos \"mal treinados\" levam a conclusões erradas: desde a identificação de gorilas em fotos de humanos até a prisão de inocentes. Neste cenário, qual papel nós estamos desempenhando? Estamos ajudando a reforçar e a replicar algoritmos tendenciosos (biased)?"
+  speakers: [007]
+
+# Fernanda Andalo
+-
+  id: 401
+  title: "Da Academia ao Mercado: Visão computacional com Deep Learning"
+  description: "Falar sobre como ensinamos os computadores a ver e interpretar o mundo, e como a disponibilidade de dados vem modificando isso. Posso mostrar os exemplos em que trabalho atualmente (em minha empresa, ONG e doutorado) e também o que vêm acontecendo na academia e no mercado."
+  subtype: presentation
+  speakers: [013]
+  complexity: Intermediário
+
+# Diego Nogare
+-
+  id: 402
+  title: "Montando um ambiente de Big Data com Spark integrado com R no Azure"
+  description: "Nesta sessão vou apresentar a criação do Apache Spark a partir do zero, instanciando uma máquina no Azure e permitindo a interação com linguagem R, incluindo os mecanismos de Machine Learning integrado com Big Data."
+  subtype: presentation
+  speakers: [005]
+  complexity: Intermediário
+
+# Daniel Cukier
+-
+  id: 501
+  title: "Índice de Audiência Musical: o lado científico do programa  SóTocaTop"
+  description: "Índice de Audiência Musical é a composição de várias tecnologias de computação musical, computação em Nuvem e Data Science para consolidar, num único número, o nível de popularidade de artistas, baseando-se em dados de consumo em rádios, TVs e plataformas de streaming. Nessa palestra, contaremos detalhes desse projeto, utilizado pela Rede Globo para a escolha de artistas do programa SóTocaTop."
+  subtype: presentation
+  speakers: [003]
+  complexity: Intermediário
+
+# Alline Oliveira
+-
+  id: 502
+  title: "BigQuery/BigData. Programação com propósito"
+  description: "Qual o objetivo maior de suas linhas de código? Você realmente necessita de um Schema forte, inter relacionado, vinculado a chaves inflexíveis? O quão estável está o seu business? Já foi validado e já produz os resultados esperados?"
+  subtype: presentation
+  speakers: [016]
+  complexity: Todos
+
+# Alexandre Ferreira
+-
+  id: 901
+  title: "Provenance analysis against fake news"
+  description: "Com o objetivo de recontar uma história a partir de textos, imagens e vídeos, o projeto temático Fapesp DéjàVu reúne diversas técnicas de aprendizado de máquina e visão computacional para organizar e recriar eventos, contando toda a história em diversas perspectivas. Esta palestra foca em provenance analysis, um braço importante do projeto, e como ela pode ser utilizada no combate a fake news."
+  subtype: presentation
+  speakers: [004]
+  complexity: Básico
+
+# Cesar Nogueira
+-
+  id: 702
+  title: "Vamos falar de pipelines de dados?"
+  description: "Aprenda como a utilizar o Google Dataflow e Google BigQuery para processar seu grande volume de dados juntamente com Dataflow SDK e Apache Beam com uso de cron jobs no Google App Engine de forma a automatizar suas pipelines de dados"
+  subtype: presentation
+  speakers: [011]
+  complexity: Intermediário
+
+# Ahirton Lopes
+-
+  id: 801
+  title: "Motores de Recomendação - O que são? Onde vivem? Do que se alimentam?"
+  description: "Um sistema de recomendação é uma espécie de sistema de filtragem de informações que procura prever a \"classificação\" ou \"preferência\" que um determinado usuário dará a um item ou serviço. Hoje em dia eles se tornaram cada vez mais populares e estão presentes nas mais diversas áreas, incluindo filmes, músicas, notícias, livros, artigos de pesquisa, consultas de pesquisa e produtos em geral. 
+Nessa palestra vou mostrar diferentes implementações de sistemas de recomendação em diferentes ferramentas, programando em Python e utilizando ferramentas disponíveis via Google Cloud Plataform (tais como TensorFlow e Cloud Machine Learning Engine), demonstrando diferentes técnicas, trazendo estudos de caso de mundo real tais como recomendação de filmes dentre outros."
+  subtype: presentation
+  speakers: [008]
+  complexity: Todos
+
+# Cristiano dos Santos
+-
+  id: 902
+  title: "Conhecendo o Azure HDInsights"
+  description: "Como utilizar o ambiente Azure para processamento de dados utilizando features de Big Data, como Cluster Apache Hadoop, Spark entre outras features."
+  subtype: presentation
+  speakers: [012]
+  complexity: Intermediário
+
+# Felipe Santos
+-
+  id: 701
+  title: "Deploy de Modelos de Machine Learning em Arquiteturas Serverless"
+  description: "Como criar, validar e colocar modelos de Machine Learning em produção utilizando arquiteturas serverless na nuvem."
+  subtype: presentation
+  speakers: [014]
+  complexity: Básico
+
+# Flavio Pimenta
+-
+  id: 802
+  title: "Aguentando uma enxurrada de requisições com API Gateway + Lambda + Kinesis"
+  description: "O objetivo é abordar a tecnologia serverless em conjunto com um grande volume de requisições e dados. Além disso, mostrar a relação custo x benefício de cada abordagem se faz necessário para que o custo também seja uma preocupação dos Arquitetos e Desenvolvedores ao pensar em uma solução deste porte."
+  subtype: presentation
+  speakers: [010]
+  complexity: Intermediário
+
+# Fernando Ultremare
+-
+  id: 1101
+  title: "Big Data Science on Google Cloud"
+  description: "Um panorama das principais ferramentas e o que há de mais  de novo em Data Science/Engineering no Google Cloud"
+  subtype: presentation
+  speakers: [002]
+  complexity: Básico
+
+# Eiti Kimura
+-
+  id: 1102
+  title: "Apache Spark Structured Stream: Um moedor de dados em tempo real"
+  description: "Você tem grandes volumes de transações e precisa consolidar essas informações? ou aplicar transformações nesses dados? 
+O Apache Spark através de sua solução de processamento de dados via Structured Stream provê uma API simples para implementar o processamento de dados em \"tempo real\" de forma altamente escalável.
+Nessa apresentação vou mostrar como utilizamos o Structured  Stream para processar mais de 100 milhões de transações de tentativas de tarifação por dia, apresentarei nossa arquitetura  e alguns aspectos que sobre Streams usando Apache Spark que poderão te ajudar na tarefa de trabalhar e transformar grandes volumes de informação."
+  subtype: presentation
+  speakers: [001]
+  complexity: Intermediário
+
+# Gabriel Moreira
+-
+  id: 1201
+  title: "Sistemas de Recomendação sem enrolação"
+  description: "Nesta palestra, apresentarei uma introdução prática sobre as principais técnicas de sistemas de recomendação, incluindo arquiteturas recentes baseadas em Deep Learning.
+Serão apresentados exemplos utilizando Python, TensorFlow e Google ML Engine, e fornecidos datasets para exercitarmos um cenário de recomendação de artigos e notícias."
+  subtype: presentation
+  speakers: [009]
+  complexity: Básico
+
+# Hugo Rozestraten
+-
+  id: 1202
+  title: "Integrando Machine Learning na ingestão à persistência."
+  description: "Como ferramentas de ingestão e streaming em paralelo podem antecipar análises no Pipeline de Big Data e diminuir a movimentação dos dados após a persistência, garantindo agilidade na aplicação de Modelos de Big Data."
+  subtype: presentation
+  speakers: [006]
+  complexity: Intermediário
+
+# Keynote: closing: Gago
+-
+  id: 1301
+  title: "Keynote de Fechamento"
+  place: ""
+  description: ""
+  subtype: keynote
+  speakers: [015]
+
+# -
+#   id: 002
+#   title: "Building Cloud-powered wearable Apps"
+#   description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+#   subtype: presentation
+#   speakers: [4, 5]
+#   language: en
+#   complexity: "Intermediate" 
+#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"

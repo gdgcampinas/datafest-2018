@@ -1,0 +1,242 @@
+# Eiti Kimura
+-
+  id: 001
+  name: "Eiti"
+  surname: "Kimura"
+  company: "Movile"
+  title: "Coordenador de TI"
+  bio: "Eiti Kimura é Coordenador de TI e Arquiteto de Sistemas Distribuídos de alto desempenho na Movile Brasil. Eiti tem 16 anos de experiência em desenvolvimento de software. É entusiasta de tecnologias open-source, e é MVP do Apache Cassandra desde 2014 e tem vasta experiência com sistemas de backend, em especial plataformas de tarifação para as principais operadoras de telefonia do Brasil. Eiti possuí mestrado em engenharia elétrica e especialização em engenharia de software, além de palestrar internacionalmente em eventos como Strata Hadoop World, Spark Summit, Cassandra Summit e RedisConf."
+  thumbnailUrl: EitiKimura.png
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/" }
+    - { name: "twitter", link: "https://twitter.com/eitikimura" }
+
+# Fernando Ultremare
+- 
+  id: 002
+  name: "Fernando"
+  surname: "Ultremare"
+  company: "Dextra"
+  title: "CTO"
+  bio: "A passionate software craftsman who's worked for a wide range of industries and products. Open source developer, technical writer and conference speaker.
+At Dextra, I blend my technical and management skills to lead teams that are building awesome software products for startups, technology, media, manufacturing, financial and other types of companies.
+I live in Brazil and graduated in Computer Science at the University of Campinas, Unicamp. When my head is not on computers, I love the countryside where I really enjoy riding horses and playing guitar out loud."
+  thumbnailUrl: FernandoUltremare.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fernando-ultremare-7850459/"}
+
+# Daniel Cukier
+-
+  id: 003
+  name: "Daniel"
+  surname: "Cukier"
+  company: "Playax"
+  title: "CTO"
+  bio: "Pai da Laura, CTO na Playax. PhD em Ciência da Computação na USP e professor de JavaScript sênior na Laboratoria. Google Developer Expert (GDE) e meditador Vipassana"
+  thumbnailUrl: DanielCukier.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - { name: "twitter", link: "http://www.twitter.com/danicuki" }
+
+# Alexandre Ferreira
+-
+  id: 004
+  name: "Alexandre Mello"
+  surname: "Ferreira"
+  company: "IC/Unicamp"
+  title: "Researcher"
+  bio: "Possuo doutorado em Ciência da Computação pela Politecnico di Milano, Itália (2013), mestrado em Ciência da Computação pela Universidade Federal de São Carlos (2008) e bacharelado em Ciência da Computação pela Escola de Engenharia de Piracicaba (2004). Desde 2015 atuo como pesquisador no RECOD (IC, Unicamp) em diversos projetos ligados direta ou indiretamente aos temas computação forense e aprendizado de máquina. Estes projetos são financiados pela iniciativa privada e agências de fomento. Além da pesquisa, também sou docente na Fatec Campinas e na Escola de Engenharia de Piracicaba nos cursos de computação."
+  thumbnailUrl: AlexandreFerreira.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://br.linkedin.com/in/alexandre-mello-ferreira-303a5682" }
+
+# Diego Nogare
+-
+  id: 005
+  name: "Diego"
+  surname: "Nogare"
+  company: "Lambda3"
+  title: "Chief Data Officer"
+  bio: "Diego Nogare é graduado em Ciência da Computação, Pós-Graduado em Engenharia da Computação com ênfase em Desenvolvimento Web com .Net. Mestrando em Engenharia Elétrica e Computação. Autor de quatro livros em Português: Do Banco de Dados Relacional à Tomada de Decisão, SQL Server Além do Conceito: Blog Post Collection, SQL Server Além do Conceito: Volume 2 e Análise Preditiva com Azure Machine Learning e R. É Microsoft Most Valuable Professional [MVP] em Data Platform desde 2008, e em 2017 mudou de categoria para Artificial Intelligence. Também foi Regional Mentor do PASS nos anos de 2014 e 2015, Regional Advisor para área da América Latina no PASS entre 2015 e 2016, e PASS Board Director at Large nos anos de 2018 e 2019. Investe um tempo palestrando em eventos da Microsoft e do PASS, e quando consegue, escreve para o blog: www.diegonogare.net"
+  thumbnailUrl: DiegoNogare.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/diegonogare/" }
+    - { name: "twitter", link: "http://twitter.com/DiegoNogare" }
+
+# Hugo Rozestraten
+-
+  id: 006
+  name: "Hugo"
+  surname: "Rozestraten"
+  company: "AWS"
+  title: "Specialist Solutions Architect"
+  bio: "Especialista em Big Data da AWS, há quatro anos trabalha com Cloud Computing. Trabalhou anterioremente no Google, IBM e Oracle, tendo trabalhado com banco de dados desde 2000."
+  thumbnailUrl: HugoRozestraten.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/hugorozestraten/" }
+
+# Davi Silva
+-
+  id: 007
+  name: "Davi"
+  surname: "Silva"
+  company: "Dextra"
+  title: "Gerente de Projetos"
+  bio: "Desenvolvedor com experiência em projetos de desenvolvimento de software no Brasil e EUA, onde atuei como desenvolvedor nos laboratórios Bell Labs/Lucent. Antes da Dextra fui head de tecnologia e arquitetura em uma operadora de Telecom, principal executivo de uma fundação de pesquisa em TI e Segurança de Informação, e atuei em uma Fintech. Tenho 4 filhos, dois cachorros e jogo Squash. Compartilho algumas idéias em PapoDeCafe.com e meu Twitter é @DaviSilva."
+  thumbnailUrl: DaviSilva.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/davisilva/" }
+    - { name: "twitter", link: "http://twitter.com/davisilva" }
+
+# Ahirton Lopes
+-
+  id: 008
+  name: "Ahirton \"Einstein\""
+  surname: "Lopes"
+  company: "Duratex"
+  title: "Data Scientist"
+  bio: "Data Scientist na Duratex e professor de MBA em Machine Learning e Inteligência Artificial na FIAP além de community manager na AI Brasil. Apaixonado por aprendizagem, startups, psicologia e inovação em geral, é mestre em Engenharia Elétrica pela Universidade Presbiteriana Mackenzie (UPM) e doutorando em Engenharia Elétrica e Computação na mesma instituição. Seus projetos tiveram como temas principais: Motores de Recomendação, Auto Organização e Funcionamento Autônomo de VANTs, Processamento de Linguagem Natural dentre outros tópicos."
+  thumbnailUrl: AhirtonLopes.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/ahirton/" }
+
+# Gabriel Moreira
+-
+  id: 009
+  name: "Gabriel"
+  surname: "Moreira"
+  company: "CI&T"
+  title: "Lead Data Scientist"
+  bio: "Gabriel Moreira é um cientista apaixonado por dados e Machine Learning.
+Ele também é aluno de doutorado no ITA, com pesquisa focada em Arquiteturas de Deep Learning para Sistemas de Recomendação.
+Na CI&T, lidera um time de Data Scientist e ML Engineers na transformação de jornadas digitais utilizando Cognitive."
+  thumbnailUrl: GabrielMoreira.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/gabrielspmoreira/" }
+    - { name: "twitter", linke: "https://twitter.com/gspmoreira" }
+
+# Flavio Pimenta
+-
+  id: 010
+  name: "Flávio"
+  surname: "Pimenta"
+  company: "Assertiva Soluções"
+  title: "Arquiteto Cloud e Evangelista Devops"
+  bio: "Arquiteto Cloud e Evangelista DevOps na Assertiva Soluções
+Formado em Matemática pela UNICAMP, com mais de 18 anos no mercado de TI atuando como desenvolvedor Java e também com experiência em CI/CD e Cloud Computing. Sou coordenador das comunidades AWS Campinas e Qualidade de Software Campinas."
+  thumbnailUrl: FlavioPimenta.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/flaap/" }
+    - { name: "twitter", link: "https://twitter.com/pimenteaflavio" }
+    - { name: "github", link: "https://github.com/flap" }
+
+# Cesar Nogueira
+-
+  id: 011
+  name: "Cesar"
+  surname: "Nogueira"
+  company: "CI&T"
+  title: "Engenheiro de Software"
+  bio: ""
+  thumbnailUrl: CesarNogueira.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/cesarnog" }
+    - { name: "facebook", link: "http://facebook.com/cesarnog" }
+    - { name: "site", link: "http://cesarnogueira.tech" }
+
+# Cristiano Santos
+-
+  id: 012
+  name: "Cristiano Joaquim"
+  surname: "dos Santos"
+  company: "Sestini"
+  title: "Coordenador de BI/Big Data e Banco de Dados"
+  bio: "Cristiano Joaquim, formado em Ciência da Computação pela Universidade de Guarulhos e Pós Graduado em BI pela Faculdade IBTA.
+Professor Universitário em Cursos de Tecnologia e Profissional de TI com no momento 19 anos de experiência em diversos ramos de atividades, como: Varejo e Atacarejo, Logística, Financeiras e prestação de serviços por meios de pagamentos."
+  thumbnailUrl: CristianoSantos.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/cristiano-joaquim-50956623/" }
+
+# Fernanda Andalo
+-
+  id: 013
+  name: "Fernanda"
+  surname: "Andalo"
+  company: "Unicamp"
+  title: "Researcher"
+  bio: ""
+  thumbnailUrl: FernandaAndalo.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/feandalo/" }
+
+# Felipe Santos
+-
+  id: 014
+  name: "Felipe"
+  surname: "Santos"
+  company: "Daitan Group"
+  title: "Data Scientist"
+  bio: "Sou doutor em física e desde o início da graduação me fascinava a ideia de aplicar o mindset de físico em problemas \"sociais\" - como urbanização, comportamentos, linguagens, etc. Naturalmente, esse interesse me levou a ciência de dados, área pela qual sou absolutamente apaixonado. Tenho experiência tanto no desenvolvimento quanto no deploy de modelos baseados em machine learning com finalidades diversas, mas o que faz meus olhos brilharem é aplicar essas técnicas em problemas relacionados a urbanização, linguagens ou análises comportamentais."
+  thumbnailUrl: FelipeSantos.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/felipe-s-77854123/" }
+
+# Everton Gago
+- 
+  id: 015
+  name: "Everton"
+  surname: "Gago"
+  company: "Dextra"
+  title: "Especialista em Data Science"
+  bio: "Everton Gago é Doutorando e Mestre em Engenharia Elétrica na Unicamp. Atualmente pesquisa e desenvolve algoritmos matemáticos que reproduzem de forma artificial os aspectos biológicos de aprendizado e auto-organização. Seus principais interesses são: Aprendizado de máquina, processamento digital de sinais e computação evolutiva"
+  thumbnailUrl: EvertonGago.jpg
+  rockstar: false
+  social: []
+
+# Alline Oliveira
+- 
+  id: 016
+  name: "Alline"
+  surname: "Oliveira"
+  company: "CreBit"
+  title: "CTO"
+  bio: "Alline Oliveira é uma das poucas mulheres no mundo certificada como Google Developer Expert, devido a seu trabalho em Cloud Computing. Já desenvolveu para Nike, Citibank, Qualcomm, Departamento de Defesa Americano, Universidade da California, TAM, Anatel, Serpro, dentre outros. Hoje é a CTO da fintech Crebit."
+  thumbnailUrl: AllineOliveira.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/allineo/"}
+
+# - 
+#   id: 99
+#   name: "Mateusz"
+#   surname: "Herych"
+#   company: "Base CRM, GDG Krakow"
+#   title: "Software Engineer"
+#   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
+#   thumbnailUrl: MateuszHerych.jpg
+#   rockstar: false
+#   ribbon: 
+#     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+#     - {name: "twitter", link: "https://twitter.com/mherych"}
